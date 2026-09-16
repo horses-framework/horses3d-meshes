@@ -41,8 +41,8 @@ manageable as the mesh collection grows.
 - `naca0012/`
 - `taylor-green-vortex/`
 
-Each case directory includes a small `README.md` template for documenting
-provenance and mesh generation details.
+Each case directory currently includes a small `README.md` checklist template
+with `TODO` placeholders for provenance and mesh generation details.
 
 ## License
 
