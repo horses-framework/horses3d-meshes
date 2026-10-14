@@ -1,0 +1,3 @@
+# Meshes are generated on the fly by generate_cartesian_box_mesh.py
+*.msh
+*.geo_unrolled
