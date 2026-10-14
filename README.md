@@ -35,6 +35,7 @@ manageable as the mesh collection grows.
 
 ## Initial layout
 
+- `cartesian-box/`
 - `channel-flow/`
 - `cylinder/`
 - `lid-driven-cavity/`
