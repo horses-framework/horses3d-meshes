@@ -35,6 +35,7 @@ manageable as the mesh collection grows.
 
 ## Initial layout
 
+- `cartesian-band-hanging-nodes/`
 - `cartesian-box/`
 - `channel-flow/`
 - `cylinder/`
