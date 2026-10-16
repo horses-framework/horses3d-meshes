@@ -1,0 +1,2 @@
+# Meshes are generated on the fly by the circle_sliding_*.py scripts
+*.msh
