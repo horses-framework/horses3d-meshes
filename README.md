@@ -38,6 +38,7 @@ manageable as the mesh collection grows.
 - `cartesian-band-hanging-nodes/`
 - `cartesian-box/`
 - `channel-flow/`
+- `circle-sliding/`
 - `cylinder/`
 - `lid-driven-cavity/`
 - `naca0012/`
