@@ -40,8 +40,10 @@ manageable as the mesh collection grows.
 - `channel-flow/`
 - `circle-sliding/`
 - `cylinder/`
+- `isentropic-vortex/`
 - `lid-driven-cavity/`
 - `naca0012/`
+- `rotary-periodic/`
 - `taylor-green-vortex/`
 
 Each case directory currently includes a small `README.md` checklist template
